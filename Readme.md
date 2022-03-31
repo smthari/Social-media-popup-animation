@@ -1,6 +1,6 @@
 # Frontends Projects - Social Media Pop Up Animation 
 
-![Social Media Pop Up Animation ](/Design/Desktop.png)
+![Social Media Pop Up Animation ](/Design/popicon.png)
 
 ---
 Project: Social Media Pop Up Animation \
